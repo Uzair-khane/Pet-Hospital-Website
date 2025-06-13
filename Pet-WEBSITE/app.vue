@@ -1,5 +1,7 @@
 <template>
   <div>
-   <h1 class="text-2xl text-amber-500">pakistna </h1>
+     <h1>adjskfljl</h1>
+    <NuxtPage />
+   
   </div>
 </template>
