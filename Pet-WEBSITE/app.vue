@@ -1,7 +1,9 @@
 <template>
   <div>
-     <h1>adjskfljl</h1>
+    <Header />
+   
     <NuxtPage />
    
   </div>
 </template>
+
